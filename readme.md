@@ -83,8 +83,7 @@ The protocol aims to become the foundation for Web3 identity verification, enabl
 Contract ID: STQR44EW9WZPK9PY3HYP3HEPXRPX0645VP9RM3S8.BiometricSecurityProtocol
 ![alt text](image.png)
 
-**Mainnet**: TBD  
-**Testnet**: TBD
+
 
 ## Getting Started
 
@@ -113,6 +112,6 @@ We welcome contributions from the blockchain and biometric security communities.
 
 This project is open source and available under the MIT License.
 
----
 
-*Building the future of secure, private, and decentralized authentication.*
+
+
